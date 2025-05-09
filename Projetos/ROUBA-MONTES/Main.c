@@ -538,3 +538,5 @@ int mostra_monte(deck *p){
 
     return 1;
 }
+
+//gostei da forma de como fez o menu do jogo
