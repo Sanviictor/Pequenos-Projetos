@@ -197,7 +197,7 @@ int main(){
                 system("pause");
                 system("cls");
                 
-
+                
                 printf("\t\t  ______________________________________________________\n");
                 printf("\t\t /                                                    / |\n");
                 printf("\t\t/____________________________________________________/  |\n");
@@ -538,3 +538,5 @@ int mostra_monte(deck *p){
 
     return 1;
 }
+
+//gostei de como fez a parte de menu do jogo
